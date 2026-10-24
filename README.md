@@ -118,6 +118,8 @@ flowchart TB
 | `free-llm-router` | Route planning prompts across free LLM tiers |
 | `astra-deep-work` | High-power plan → research → implement → critique → verify |
 | `astra-adversarial-review` | Steelman + red-team the plan/code |
+| `prompt-engineering` | Design/eval prompts for research, teaching, agents |
+| `systems-reverse-engineering` | Legitimate RE for interoperability & authorized research |
 | `power-pack-lookup` | How to use *this* repo as the living bible |
 
 ---
