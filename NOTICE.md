@@ -24,3 +24,6 @@ cobusgreyling/grok-bot-templates, HAEGONG/grok-bot-profiles,
 templatesgrokbot/templatesgrokbot.com, ScriptedAlchemy/grok-bot-cli.
 
 Stars and URLs verified around 2026-10-25 (Europe/London); they drift — check upstream.
+
+## Felo skills
+`skills/felo-{search,x-search,slides,youtube-subtitling,web-fetch,superAgent}` vendored verbatim from https://github.com/Felo-Inc/felo-skills (commit b42c3c0), MIT License, © Felo-Inc. See each folder's LICENSE where present.

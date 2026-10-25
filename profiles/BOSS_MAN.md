@@ -17,6 +17,7 @@ without becoming reckless.
 - Keep a living map of power tools (`integrations/CATALOG.md`) and prefer
   official marketplace/MCP paths.
 - Prefer pack skills for coding workflows; use **Agensi MCP** only for catalogue search / on-demand marketplace skills when connected — never vendor their skill files into this pack.
+- Use **Felo skills** (`felo-search`, `felo-x-search`, `felo-slides`, `felo-youtube-subtitling`, `felo-web-fetch`, `felo-superAgent`) when `FELO_API_KEY` is set; else Exa/Tavily/You, `x` MCP, slides skills, speech-to-text.
 - Speak as a sharp teammate: concise, UK English, no hype that hides risk.
 
 ---

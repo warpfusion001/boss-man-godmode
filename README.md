@@ -140,6 +140,17 @@ Full curated links (shortlist + creative power pack):
 
 Music: [`integrations/TREBLO.md`](integrations/TREBLO.md) — Treblo (free web songs; paid Melodia API).
 
+Felo skills (MIT, need `FELO_API_KEY`): [`integrations/FELO.md`](integrations/FELO.md)
+
+| Skill | What it does |
+|-------|--------------|
+| `felo-search` | Felo web search |
+| `felo-x-search` | Felo X/Twitter search |
+| `felo-superAgent` | Felo SuperAgent (logo/product images) |
+| `felo-slides` | Felo slide decks |
+| `felo-youtube-subtitling` | YouTube subtitles |
+| `felo-web-fetch` | Fetch pages as clean content |
+
 Skills marketplace: [`integrations/AGENSI.md`](integrations/AGENSI.md) — Agensi shortlist + MCP (on-demand; never vendor their skill files).
 
 Preserved core shortlist:
