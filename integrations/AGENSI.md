@@ -16,9 +16,11 @@ Agensi is a **marketplace of agent skills** (many free, some paid) discoverable 
 - This pack ships **original Boss Man skills** that cover the same *workflows* (commits, PRs, README, env diagnose, evidence-first verify). Names may overlap; authorship and licence are ours (MIT pack).
 - Install counts below are from the Jun 2026 best-skills article — they drift; re-check the live pages.
 
-## Connect (optional)
+## Connect
 
-1. Owner connects Agensi MCP per https://www.agensi.io/mcp (OAuth / auth at the endpoint above).
+Boss Man: **Agensi MCP connected** (`user-Agensi`, https://mcp.agensi.io — tools include `search_skills`, `get_skill`, `get_popular`, `my_library`).
+
+1. Owner connects Agensi MCP per https://www.agensi.io/mcp (OAuth / auth at the endpoint above) if not already.
 2. Prefer pack skills for day-to-day coding workflows.
 3. Use Agensi MCP only to **search / load marketplace skills on demand** when the owner asks for a catalogue skill we do not cover.
 4. Never dump Agensi skill markdown into this repo or the skill store as a permanent copy.
