@@ -45,6 +45,7 @@ Docs: https://docs.x.ai/grok-bot/overview · https://cursor.com/docs/grok-bot/wo
 | LiteLLM | https://github.com/BerriAI/litellm | 62k | Multi-LLM gateway patterns |
 | GPT-Researcher | https://github.com/assafelovic/gpt-researcher | 30k | Deep research agent patterns |
 | FastMCP | https://github.com/PrefectHQ/fastmcp | 28k | Build thin creative MCP wrappers |
+| Agensi marketplace | https://www.agensi.io · MCP https://www.agensi.io/mcp | — | Cursor/Claude skills on demand; see `integrations/AGENSI.md` (never vendor skill bodies) |
 | MarkItDown | https://github.com/microsoft/markitdown | 192k | Docs→Markdown |
 
 Also marketplace-adjacent: Exa, Tavily, Sentry, Neon, Railway, MongoDB, Netlify (see xai-org/plugin-marketplace pins).

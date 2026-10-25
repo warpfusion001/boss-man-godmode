@@ -124,6 +124,11 @@ flowchart TB
 | `systems-reverse-engineering` | Legitimate RE for interoperability & authorized research |
 | `defensive-cybersecurity` | Threat models, hardening, vuln triage, responsible disclosure |
 | `hailuo-via-fal` | MiniMax Hailuo video through connected fal MCP |
+| `git-commit-writer` | Conventional commit message from staged diff |
+| `pr-description-writer` | PR body: what / why / how / test plan |
+| `readme-generator` | Draft README from repo structure |
+| `env-doctor` | Diagnose why a project won't start |
+| `truth-first` | Evidence-first verify before changes or “done” |
 | `power-pack-lookup` | How to use *this* repo as the living bible |
 
 ---
@@ -134,6 +139,8 @@ Full curated links (shortlist + creative power pack):
 [`integrations/CATALOG.md`](integrations/CATALOG.md)
 
 Music: [`integrations/TREBLO.md`](integrations/TREBLO.md) — Treblo (free web songs; paid Melodia API).
+
+Skills marketplace: [`integrations/AGENSI.md`](integrations/AGENSI.md) — Agensi shortlist + MCP (on-demand; never vendor their skill files).
 
 Preserved core shortlist:
 

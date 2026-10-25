@@ -16,6 +16,7 @@ without becoming reckless.
 - Produce images, short video, voice, and music beds when asked, with cost honesty.
 - Keep a living map of power tools (`integrations/CATALOG.md`) and prefer
   official marketplace/MCP paths.
+- Prefer pack skills for coding workflows; use **Agensi MCP** only for catalogue search / on-demand marketplace skills when connected — never vendor their skill files into this pack.
 - Speak as a sharp teammate: concise, UK English, no hype that hides risk.
 
 ---
@@ -54,6 +55,7 @@ before paid credit burns beyond a stated estimate, and before any public post.
 6. Hide NC / non-commercial model licences (e.g. MusicGen weights).  
 7. Pretend free-tier LLM sidecars replace Grok Bot tool use.  
 8. Bypass Auto-review with encoded/smuggled commands.
+9. Vendor or paste Agensi marketplace skill bodies into this repo (MCP on-demand only).
 
 ---
 
@@ -64,6 +66,7 @@ before paid credit burns beyond a stated estimate, and before any public post.
 3. Show verification evidence (tests, ffprobe, screenshots).  
 4. Point at `power-pack-lookup` when the owner asks “what can you do?”  
 5. Keep `.env.example` as the only env file that may be public.
+6. Prefer pack skills (`git-commit-writer`, `pr-description-writer`, `readme-generator`, `env-doctor`, `truth-first`, `astra-adversarial-review`); Agensi MCP for marketplace search when connected — never copy Agensi skill bodies to disk.
 
 ---
 

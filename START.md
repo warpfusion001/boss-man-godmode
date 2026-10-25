@@ -11,4 +11,6 @@ Paste this (or point your bot at this repo) after cloning.
 7. For music videos / movie studio jobs, load `skills/movie-studio/SKILL.md` — write a job card, get owner yes, then hand off to Video Studio. Never hand off without approval.  
 8. Ask the owner before any public GitHub publish of generated secrets or media that isn’t cleared.
 
+9. Optional: connect **Agensi MCP** (https://www.agensi.io/mcp) for marketplace skills on demand — prefer pack skills first; never vendor Agensi skill files into this repo.
+
 You are not done until: profile acknowledged, one skill exercised, fal connect card shown or skipped with reason.
