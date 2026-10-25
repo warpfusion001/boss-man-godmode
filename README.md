@@ -137,6 +137,15 @@ flowchart TB
 | `social-content` | LinkedIn/IG/X drafts; never publish; Dave note for IG growth |
 | `lead-research` | Company/email → account brief; CRM writes need Composio + approval |
 | `power-pack-lookup` | How to use *this* repo as the living bible |
+| `cost-gate` | Estimate + owner yes before any paid generation |
+| `json2video` | JSON2Video MCP — scripted/template/TTS-subtitle video |
+| `pixeldojo-media` | Pixel Dojo MCP — image/video/audio/ads/film |
+| `aimlapi-router` | AIMLAPI multi-model LLM/image/video/audio escape hatch |
+| `video-studio-handoff` | Owner-approved handoff to Video Studio teammate |
+| `skill-gap-audit` | Diff live vs pack; thin skills; capability holes |
+| `composio-workflows` | Composio MCP router for packed SaaS workflows |
+| `felo-when-keyed` | Prefer Felo skills when `FELO_API_KEY` is set |
+| `treblo-free-web` | Treblo consumer web only unless owner asks Melodia API |
 
 ---
 
@@ -179,6 +188,12 @@ See [`integrations/COMPOSIO.md`](integrations/COMPOSIO.md). Pack originals (not 
 | `talking-grok-bot` | Talking Grok Bot via Grok Voice plugin (voice/read-aloud/dictation) — [`integrations/TALKING_GROK.md`](integrations/TALKING_GROK.md) |
 | `draw-things-local` | Free on-device image/video on iPhone/iPad/Mac via Draw Things API `:7860` — [`integrations/LOCAL_MEDIA_GEN.md`](integrations/LOCAL_MEDIA_GEN.md) |
 | `comfyui` / `comfyui-local` | Free local ComfyUI image/video (Apache-2.0, ComfyUI-Agent-Kit) — [`integrations/LOCAL_MEDIA_GEN.md`](integrations/LOCAL_MEDIA_GEN.md) |
+| `json2video` | JSON2Video MCP — [`integrations/JSON2VIDEO.md`](integrations/JSON2VIDEO.md) |
+| `pixeldojo-media` | Pixel Dojo MCP image/video/audio |
+| `aimlapi-router` | AIMLAPI multi-model — [`integrations/AIMLAPI.md`](integrations/AIMLAPI.md) |
+| `cost-gate` | Always before paid gen |
+| `video-studio-handoff` | Handoff to Video Studio after owner yes |
+| `skill-gap-audit` | Keep live skills ↔ pack aligned |
 
 Skills marketplace: [`integrations/AGENSI.md`](integrations/AGENSI.md) — Agensi shortlist + MCP (on-demand; never vendor their skill files).
 

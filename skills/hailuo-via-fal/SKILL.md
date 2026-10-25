@@ -1,15 +1,26 @@
 ---
 name: hailuo-via-fal
 description: >-
-  Backup path: MiniMax Hailuo video via fal MCP when the official MiniMax-Hailuo
-  connector is down. Prefer user-MiniMax-Hailuo tools first.
+  Generate MiniMax Hailuo video — prefer official MiniMax-Hailuo MCP; fal MCP
+  is the backup when that connector is down.
 ---
 
-# Hailuo via fal (backup)
+# Hailuo / MiniMax video
 
-Prefer **`user-MiniMax-Hailuo`** (official MiniMax MCP). Use fal only if that server is unavailable.
+Docs: `integrations/HAILUO.md`. Always run **`cost-gate`** before paid generations.
 
-## Preferred fal endpoints
+## Preferred path — official MiniMax MCP
+
+Namespace: `user-MiniMax-Hailuo` (stdio `uvx minimax-mcp`).
+
+1. `GetDynamicTools` / call `generate_video` (model e.g. `MiniMax-Hailuo-02` / Hailuo line).
+2. For async: `async_mode: true` then `query_video_generation` with `task_id`.
+3. Save under `/workspace/outputs/minimax/` (or job `output_dir`).
+4. Related: `text_to_image`, `text_to_audio`, `voice_clone`, `voice_design` — still cost-gated; voice clone needs consent.
+
+## Backup path — fal MiniMax endpoints
+
+Use only when MiniMax MCP is unavailable / errors.
 
 | Job | `endpoint_id` |
 |-----|----------------|
@@ -18,13 +29,17 @@ Prefer **`user-MiniMax-Hailuo`** (official MiniMax MCP). Use fal only if that se
 | I2V 768p | `fal-ai/minimax/hailuo-2.3/standard/image-to-video` |
 | I2V 1080p | `fal-ai/minimax/hailuo-2.3/pro/image-to-video` |
 
-## Steps
+Steps: `get_model_schema` → `run_model` / `submit_job` → save under `/workspace/outputs/hailuo/`.
 
-1. Try official MiniMax MCP first (`generate_video` / related).
-2. Else `get_model_schema` + `run_model` / `submit_job` on fal.
-3. Save under `/workspace/outputs/hailuo/` or `/workspace/outputs/minimax/`.
+## Engine pick hints
+
+- Prefer MiniMax MCP for first-party models + local file save.
+- Prefer fal backup when MiniMax is down but fal OAuth works.
+- Prefer free local (`comfyui-local` / `draw-things-local`) for drafts when reachable.
 
 ## Never
 
 - Commit API keys or echo them.
-- Claim fal generations are free.
+- Claim fal or MiniMax generations are free.
+- Skip `cost-gate` / owner yes on paid runs.
+- Clone a real person’s voice without consent.

@@ -50,3 +50,8 @@ Licensed under Apache License 2.0 — see `skills/android-official/LICENSE.txt`.
 ## agent-skills-android (skills/android-engineering)
 Vendored from https://github.com/GuillemRoca/agent-skills-android. MIT License — see `skills/android-engineering/LICENSE`.
 mazWaz/android-skill is referenced by link only (not redistributed).
+
+## Cost gate / media MCP skills
+`cost-gate`, `json2video`, `pixeldojo-media`, `aimlapi-router`, `video-studio-handoff`, `skill-gap-audit`,
+`composio-workflows`, `felo-when-keyed`, and `treblo-free-web` are original Boss Man instructions wrapping
+vendor MCP/docs — not copies of vendor skill bodies.

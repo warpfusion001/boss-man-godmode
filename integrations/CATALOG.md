@@ -52,6 +52,15 @@ Docs: https://docs.x.ai/grok-bot/overview · https://cursor.com/docs/grok-bot/wo
 | ComfyUI (local) | https://github.com/SlavaSexton/ComfyUI-Agent-Kit | none (local :8188) | Free GPU local; vendored Apache-2.0 under `skills/comfyui`; see `integrations/LOCAL_MEDIA_GEN.md` |
 | Composio | https://dashboard.composio.dev · article https://composio.dev/content/top-grok-bot-skills | plugin `32661537` | 1000+ SaaS apps via one MCP; see `integrations/COMPOSIO.md` |
 | last30days | https://github.com/mvanhorn/last30days-skill | MIT · vendored | Recent multi-source research; `skills/last30days` · `integrations/LAST30DAYS.md` |
+| JSON2Video | https://json2video.com · MCP `user-json2video` | `JSON2VIDEO_API_KEY` | Scripted/template video; `skills/json2video`; see `integrations/JSON2VIDEO.md` |
+| Pixel Dojo | https://pixeldojo.ai · MCP `user-pixeldojo` | account credits | Image/video/audio/ads/film; `skills/pixeldojo-media` |
+| AIMLAPI | https://aimlapi.com · MCP https://mcp.aimlapi.com/mcp | AIMLAPI key | Multi-model LLM/image/video/audio; `skills/aimlapi-router`; see `integrations/AIMLAPI.md` |
+| MiniMax Hailuo | https://api.minimax.io · MCP `user-MiniMax-Hailuo` | MiniMax key | Primary Hailuo video; backup `skills/hailuo-via-fal`; see `integrations/HAILUO.md` |
+| Cost gate | pack skill `cost-gate` | — | Estimate + owner yes before any paid gen |
+| Video Studio handoff | teammate id `b32c19ad-772e-48f8-b5fe-41c763c04025` | — | `skills/video-studio-handoff` + `movie-studio` job cards |
+| Skill gap audit | pack skill `skill-gap-audit` | — | Diff live vs pack; thin skills; capability holes |
+| Android app build | https://github.com/android/skills · GuillemRoca kit | free toolchain | `skills/android-app-build`; see `integrations/ANDROID.md` |
+| Talking Grok Bot | Grok Voice plugin | — | `skills/talking-grok-bot`; see `integrations/TALKING_GROK.md` |
 | MarkItDown | https://github.com/microsoft/markitdown | 192k | Docs→Markdown |
 
 Also marketplace-adjacent: Exa, Tavily, Sentry, Neon, Railway, MongoDB, Netlify (see xai-org/plugin-marketplace pins).
