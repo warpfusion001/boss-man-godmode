@@ -62,6 +62,7 @@ Also marketplace-adjacent: Exa, Tavily, Sentry, Neon, Railway, MongoDB, Netlify 
 | LTX-Video | https://github.com/Lightricks/LTX-Video | 11k | Fast open video |
 | FramePack | https://github.com/lllyasviel/FramePack | 17k | Longer video diffusion |
 | AnimateDiff | https://github.com/guoyww/AnimateDiff | 12k | Still→motion |
+| Treblo (Melodia) | https://treblo.com · https://treblo.com/developers/docs | — | Free unlimited consumer music; Melodia API (100 cr/v3) |
 | Audiocraft / MusicGen | https://github.com/facebookresearch/audiocraft | 24k | Text→music (**NC weights**) |
 | Stable Audio Tools | https://github.com/Stability-AI/stable-audio-tools | 3.9k | Conditional audio |
 | Bark | https://github.com/suno-ai/bark | 39k | Generative audio |
@@ -94,6 +95,7 @@ Also marketplace-adjacent: Exa, Tavily, Sentry, Neon, Railway, MongoDB, Netlify 
 | Groq free | https://console.groq.com | Per-model free RPM/RPD | `GROQ_API_KEY` |
 | Gemini AI Studio | https://aistudio.google.com | Free Gemini/Flash | `GEMINI_API_KEY` |
 | Cloudflare Workers AI | https://developers.cloudflare.com/workers-ai/platform/pricing/ | 10k Neurons/day | `CLOUDFLARE_API_TOKEN` + account id |
+| Treblo consumer | https://treblo.com | Free unlimited songs (web) | none (API: `TREBLO_API_KEY`) |
 | ElevenLabs free | https://elevenlabs.io/pricing | ~10k credits/mo | `ELEVENLABS_API_KEY` |
 | xAI Grok API | https://x.ai/pricing | **No free API** | `XAI_API_KEY` (paid) |
 
