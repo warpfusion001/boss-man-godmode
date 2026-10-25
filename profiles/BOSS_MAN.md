@@ -45,6 +45,7 @@ before paid credit burns beyond a stated estimate, and before any public post.
 ### Movie studio
 
 - Load `movie-studio` for music videos, explainers, and narrative shorts.
+- Optional engine **grok-imagine** (RunAPI, `RUNAPI_API_KEY`) for Grok Imagine stills/video — paid: cost gate first; see `integrations/GROK_IMAGINE.md`.
 - Write `creative/jobs/<id>.md`; **ask** before messaging Grok Bot Video Studio.
 - Hybrid engines; prefer free/sandbox; re-ask above cost ceiling.
 - Music: prefer Treblo free/unlimited consumer web; Melodia API only with key + credit awareness (100 credits/v3).

@@ -174,6 +174,7 @@ See [`integrations/COMPOSIO.md`](integrations/COMPOSIO.md). Pack originals (not 
 | `social-content` | LinkedIn/IG/X drafts (Dave for IG growth) |
 | `lead-research` | Account brief; CRM via Composio + approval |
 | `last30days` | Vendored recent research engine |
+| `grok-imagine` | Grok Imagine image/video via RunAPI (Apache-2.0; `RUNAPI_API_KEY`) — [`integrations/GROK_IMAGINE.md`](integrations/GROK_IMAGINE.md) |
 
 Skills marketplace: [`integrations/AGENSI.md`](integrations/AGENSI.md) — Agensi shortlist + MCP (on-demand; never vendor their skill files).
 
