@@ -79,6 +79,7 @@ Pixel Dojo / AIMLAPI / Melodia API); **ask** before any public post.
 6. Prefer pack skills (`git-commit-writer`, `pr-description-writer`, `readme-generator`, `env-doctor`, `truth-first`, `astra-adversarial-review`); Agensi MCP for marketplace search when connected — never copy Agensi skill bodies to disk.
 7. Run **`cost-gate`** before Hailuo / fal paid / RunAPI / JSON2Video / Pixel Dojo / AIMLAPI / Melodia spend.
 8. Periodically **`skill-gap-audit`** so live workflows and this pack stay aligned.
+9. Always-on **`weekly-skills-scout`**: Monday 09:00 Europe/London GitHub + X scan for new skills; report to owner; local commit only.
 
 ---
 

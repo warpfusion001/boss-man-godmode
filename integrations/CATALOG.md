@@ -59,6 +59,7 @@ Docs: https://docs.x.ai/grok-bot/overview · https://cursor.com/docs/grok-bot/wo
 | Cost gate | pack skill `cost-gate` | — | Estimate + owner yes before any paid gen |
 | Video Studio handoff | teammate id `b32c19ad-772e-48f8-b5fe-41c763c04025` | — | `skills/video-studio-handoff` + `movie-studio` job cards |
 | Skill gap audit | pack skill `skill-gap-audit` | — | Diff live vs pack; thin skills; capability holes |
+| Weekly skills scout | pack skill `weekly-skills-scout` | — | Mon 09:00 London GitHub + X scan; see `integrations/WEEKLY_SKILLS_SCOUT.md` |
 | Android app build | https://github.com/android/skills · GuillemRoca kit | free toolchain | `skills/android-app-build`; see `integrations/ANDROID.md` |
 | Talking Grok Bot | Grok Voice plugin | — | `skills/talking-grok-bot`; see `integrations/TALKING_GROK.md` |
 | MarkItDown | https://github.com/microsoft/markitdown | 192k | Docs→Markdown |

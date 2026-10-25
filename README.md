@@ -194,6 +194,7 @@ See [`integrations/COMPOSIO.md`](integrations/COMPOSIO.md). Pack originals (not 
 | `cost-gate` | Always before paid gen |
 | `video-studio-handoff` | Handoff to Video Studio after owner yes |
 | `skill-gap-audit` | Keep live skills ↔ pack aligned |
+| `weekly-skills-scout` | Weekly GitHub + X scan for new skills — [`integrations/WEEKLY_SKILLS_SCOUT.md`](integrations/WEEKLY_SKILLS_SCOUT.md) |
 
 Skills marketplace: [`integrations/AGENSI.md`](integrations/AGENSI.md) — Agensi shortlist + MCP (on-demand; never vendor their skill files).
 

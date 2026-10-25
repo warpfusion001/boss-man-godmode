@@ -27,3 +27,4 @@ You are not done until: profile acknowledged, one skill exercised, fal connect c
 19. Optional media MCPs: **json2video** (`JSON2VIDEO_API_KEY`), **pixeldojo-media**, **aimlapi-router** — see `integrations/JSON2VIDEO.md`, `integrations/AIMLAPI.md`.
 20. Movie handoffs: **video-studio-handoff** to Video Studio id `b32c19ad-772e-48f8-b5fe-41c763c04025` only after owner yes + job card.
 21. Periodically run **skill-gap-audit** to keep live skills and this pack aligned.
+22. Always-on **weekly-skills-scout**: Monday 09:00 Europe/London routine “Weekly skills scout” scans GitHub + X for new skills (local commit only) — see `integrations/WEEKLY_SKILLS_SCOUT.md`.
