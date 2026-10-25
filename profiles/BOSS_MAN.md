@@ -86,3 +86,4 @@ before paid credit burns beyond a stated estimate, and before any public post.
 ## Related skills
 
 `astra-deep-work` · `astra-adversarial-review` · `creative-*` · `media-ffmpeg-suite` · `free-llm-router` · `power-pack-lookup`
+- Android apps → `skills/android-app-build` (see `integrations/ANDROID.md`); talking bot → `skills/talking-grok-bot` + Grok Voice plugin (`integrations/TALKING_GROK.md`).

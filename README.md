@@ -175,6 +175,8 @@ See [`integrations/COMPOSIO.md`](integrations/COMPOSIO.md). Pack originals (not 
 | `lead-research` | Account brief; CRM via Composio + approval |
 | `last30days` | Vendored recent research engine |
 | `grok-imagine` | Grok Imagine image/video via RunAPI (Apache-2.0; `RUNAPI_API_KEY`) — [`integrations/GROK_IMAGINE.md`](integrations/GROK_IMAGINE.md) |
+| `android-app-build` | Free Android app builds — router + `android-official` (Apache-2.0) + `android-engineering` (MIT) — [`integrations/ANDROID.md`](integrations/ANDROID.md) |
+| `talking-grok-bot` | Talking Grok Bot via Grok Voice plugin (voice/read-aloud/dictation) — [`integrations/TALKING_GROK.md`](integrations/TALKING_GROK.md) |
 | `draw-things-local` | Free on-device image/video on iPhone/iPad/Mac via Draw Things API `:7860` — [`integrations/LOCAL_MEDIA_GEN.md`](integrations/LOCAL_MEDIA_GEN.md) |
 | `comfyui` / `comfyui-local` | Free local ComfyUI image/video (Apache-2.0, ComfyUI-Agent-Kit) — [`integrations/LOCAL_MEDIA_GEN.md`](integrations/LOCAL_MEDIA_GEN.md) |
 

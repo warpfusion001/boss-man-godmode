@@ -42,3 +42,11 @@ Idea from the r/GrokBot tip https://www.reddit.com/r/GrokBot/comments/1w9yzzk/sk
 Copyright 2026 AI VFX NEWS (Slava Sexton). Licensed under the Apache License, Version 2.0 — see
 `skills/comfyui/LICENSE`, `skills/comfyui/NOTICE`, `skills/comfyui/ATTRIBUTION.md`. "AI VFX NEWS" is a
 trademark of its holder; no endorsement implied. Third-party models/components are not redistributed.
+
+## Android official skills (skills/android-official)
+Vendored from https://github.com/android/skills. Copyright The Android Open Source Project / Google LLC.
+Licensed under Apache License 2.0 — see `skills/android-official/LICENSE.txt`.
+
+## agent-skills-android (skills/android-engineering)
+Vendored from https://github.com/GuillemRoca/agent-skills-android. MIT License — see `skills/android-engineering/LICENSE`.
+mazWaz/android-skill is referenced by link only (not redistributed).
