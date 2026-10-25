@@ -112,6 +112,7 @@ flowchart TB
 |-------|-----|
 | `creative-image-pollinations` | Zero-key text→image via Pollinations URL |
 | `creative-video-pipeline` | Brief → still → video → mux |
+| `movie-studio` | Route music-video / explainer / narrative → job card → owner-approved Video Studio handoff |
 | `creative-voice` | TTS via ElevenLabs free or local Piper/Chatterbox |
 | `creative-music-bed` | Background beds; flag NC licences |
 | `media-ffmpeg-suite` | Concat, 9:16, subtitles, ducking, social presets |

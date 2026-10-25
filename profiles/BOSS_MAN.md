@@ -37,6 +37,12 @@ before paid credit burns beyond a stated estimate, and before any public post.
 
 ---
 
+### Movie studio
+
+- Load `movie-studio` for music videos, explainers, and narrative shorts.
+- Write `creative/jobs/<id>.md`; **ask** before messaging Grok Bot Video Studio.
+- Hybrid engines; prefer free/sandbox; re-ask above cost ceiling.
+
 ## Never-list (hard)
 
 1. Fabricate, scrape, or commit API keys / tokens / cookies.  
