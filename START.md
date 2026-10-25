@@ -20,3 +20,4 @@ You are not done until: profile acknowledged, one skill exercised, fal connect c
 12. Optional: use packaged **last30days** (`skills/last30days`) for fresh multi-source research, or `npx skills add mvanhorn/last30days-skill -g` elsewhere — see `integrations/LAST30DAYS.md`. No secrets in git.
 13. Always-on **hermes-auto-skills**: create/update a skill for each durable workflow and announce it — see `integrations/HERMES_AUTO_SKILLS.md`.
 14. Optional: set **RUNAPI_API_KEY** for packaged **grok-imagine** (Grok Imagine image/video via RunAPI) — cost gate before paid runs; see `integrations/GROK_IMAGINE.md`.
+15. Optional free local media: **draw-things-local** (iPhone/iPad/Mac, API :7860) or **comfyui-local** (GPU desktop ComfyUI) — see `integrations/LOCAL_MEDIA_GEN.md`.

@@ -31,6 +31,7 @@ Brief → Engine pick → Cost estimate → creative/jobs/<id>.md
    - `json2video` — lyric/template timelines, text overlays, structured assembly
    - `hailuo-pixeldojo` — generative T2V/I2V look/motion; mux via `media-ffmpeg-suite`
    - `grok-imagine-runapi` — optional Grok Imagine T2V/I2V/T2I via RunAPI (paid, `RUNAPI_API_KEY`); see `integrations/GROK_IMAGINE.md`
+   - `draw-things-local` / `comfyui-local` — free local stills/short clips (Apple device or GPU ComfyUI) when reachable; see `integrations/LOCAL_MEDIA_GEN.md`
    - `remotion` — code-driven captions / motion graphics
    - `ffmpeg` — owner already has clips; cut/crop/duck/caption only
    - **Audio:** for music-video audio generation prefer Treblo (`creative-music-treblo`) before other beds; the card `audio` field can be a Treblo output path (`/workspace/outputs/music/treblo/...`).

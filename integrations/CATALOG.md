@@ -48,6 +48,8 @@ Docs: https://docs.x.ai/grok-bot/overview · https://cursor.com/docs/grok-bot/wo
 | Agensi marketplace | https://www.agensi.io · MCP https://www.agensi.io/mcp | — | Cursor/Claude skills on demand; see `integrations/AGENSI.md` (never vendor skill bodies) |
 | Felo skills | https://felo.ai/skills/grok-bot · https://github.com/Felo-Inc/felo-skills | `FELO_API_KEY` | Search / X / slides / YouTube / web-fetch / SuperAgent; vendored MIT under `skills/felo-*`; see `integrations/FELO.md` |
 | Grok Imagine (RunAPI) | https://github.com/runapi-ai/grok-imagine · https://runapi.ai | `RUNAPI_API_KEY` | T2V/I2V/T2I/edit-image; vendored Apache-2.0 under `skills/grok-imagine`; see `integrations/GROK_IMAGINE.md` |
+| Draw Things (local) | https://drawthings.ai · https://www.npmjs.com/package/mcp-drawthings | none (local API :7860) | Free Apple on-device; `skills/draw-things-local`; see `integrations/LOCAL_MEDIA_GEN.md` |
+| ComfyUI (local) | https://github.com/SlavaSexton/ComfyUI-Agent-Kit | none (local :8188) | Free GPU local; vendored Apache-2.0 under `skills/comfyui`; see `integrations/LOCAL_MEDIA_GEN.md` |
 | Composio | https://dashboard.composio.dev · article https://composio.dev/content/top-grok-bot-skills | plugin `32661537` | 1000+ SaaS apps via one MCP; see `integrations/COMPOSIO.md` |
 | last30days | https://github.com/mvanhorn/last30days-skill | MIT · vendored | Recent multi-source research; `skills/last30days` · `integrations/LAST30DAYS.md` |
 | MarkItDown | https://github.com/microsoft/markitdown | 192k | Docs→Markdown |
