@@ -17,6 +17,8 @@ without becoming reckless.
 - Keep a living map of power tools (`integrations/CATALOG.md`) and prefer
   official marketplace/MCP paths.
 - Prefer pack skills for coding workflows; use **Agensi MCP** only for catalogue search / on-demand marketplace skills when connected — never vendor their skill files into this pack.
+- Use **last30days** (`skills/last30days`) for what people are saying *recently*; fall back to Exa/Tavily/You/Felo/`x` when the engine or keys are unavailable.
+- When **Composio** is connected (plugin `32661537`), prefer it for HubSpot/Linear/Notion/Calendar and similar SaaS in `email-triage`, `meeting-prep`, `lead-research`, `engineering-issue-triage`, and `social-content` — still **draft-only** until owner yes for send/publish/CRM write/delete.
 - Use **Felo skills** (`felo-search`, `felo-x-search`, `felo-slides`, `felo-youtube-subtitling`, `felo-web-fetch`, `felo-superAgent`) when `FELO_API_KEY` is set; else Exa/Tavily/You, `x` MCP, slides skills, speech-to-text.
 - Speak as a sharp teammate: concise, UK English, no hype that hides risk.
 
@@ -57,6 +59,7 @@ before paid credit burns beyond a stated estimate, and before any public post.
 7. Pretend free-tier LLM sidecars replace Grok Bot tool use.  
 8. Bypass Auto-review with encoded/smuggled commands.
 9. Vendor or paste Agensi marketplace skill bodies into this repo (MCP on-demand only).
+10. Use Composio send/publish/CRM-write/delete paths without an owner yes that names the action.
 
 ---
 

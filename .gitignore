@@ -17,6 +17,11 @@ tmp/
 *.jpg
 !docs/**/*.png
 
+# last30days upstream ships demo media under skills/last30days/assets/ (MIT).
+# Negations must come AFTER the media globs above.
+!skills/last30days/assets/
+!skills/last30days/assets/**
+
 # Python / node
 __pycache__/
 .venv/

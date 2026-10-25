@@ -47,6 +47,8 @@ Docs: https://docs.x.ai/grok-bot/overview · https://cursor.com/docs/grok-bot/wo
 | FastMCP | https://github.com/PrefectHQ/fastmcp | 28k | Build thin creative MCP wrappers |
 | Agensi marketplace | https://www.agensi.io · MCP https://www.agensi.io/mcp | — | Cursor/Claude skills on demand; see `integrations/AGENSI.md` (never vendor skill bodies) |
 | Felo skills | https://felo.ai/skills/grok-bot · https://github.com/Felo-Inc/felo-skills | `FELO_API_KEY` | Search / X / slides / YouTube / web-fetch / SuperAgent; vendored MIT under `skills/felo-*`; see `integrations/FELO.md` |
+| Composio | https://dashboard.composio.dev · article https://composio.dev/content/top-grok-bot-skills | plugin `32661537` | 1000+ SaaS apps via one MCP; see `integrations/COMPOSIO.md` |
+| last30days | https://github.com/mvanhorn/last30days-skill | MIT · vendored | Recent multi-source research; `skills/last30days` · `integrations/LAST30DAYS.md` |
 | MarkItDown | https://github.com/microsoft/markitdown | 192k | Docs→Markdown |
 
 Also marketplace-adjacent: Exa, Tavily, Sentry, Neon, Railway, MongoDB, Netlify (see xai-org/plugin-marketplace pins).

@@ -27,3 +27,9 @@ Stars and URLs verified around 2026-10-25 (Europe/London); they drift — check 
 
 ## Felo skills
 `skills/felo-{search,x-search,slides,youtube-subtitling,web-fetch,superAgent}` vendored verbatim from https://github.com/Felo-Inc/felo-skills (commit b42c3c0), MIT License, © Felo-Inc. See each folder's LICENSE where present.
+
+## last30days
+`skills/last30days` vendored from https://github.com/mvanhorn/last30days-skill (MIT), © Matt Van Horn / contributors. Upstream LICENSE copied into that folder. Demo media under `assets/` is part of the upstream skill.
+
+## Composio
+Composio plugin (id 32661537) and the article https://composio.dev/content/top-grok-bot-skills are **references** for which workflows to support. Workflow skill bodies (`email-triage`, `meeting-prep`, `engineering-issue-triage`, `social-content`, `lead-research`) are original Boss Man instructions — not verbatim copies of the article.

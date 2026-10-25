@@ -15,3 +15,6 @@ Paste this (or point your bot at this repo) after cloning.
 10. Optional: set **FELO_API_KEY** (https://openapi.felo.ai/settings/api-keys) for packaged Felo research / slides / X / YouTube skills — see `integrations/FELO.md`.
 
 You are not done until: profile acknowledged, one skill exercised, fal connect card shown or skipped with reason.
+
+11. Optional: connect **Composio** plugin `32661537` (https://dashboard.composio.dev) for HubSpot/Linear/Notion/Calendar and other SaaS — finish OAuth when MCP shows needsAuth; see `integrations/COMPOSIO.md`.
+12. Optional: use packaged **last30days** (`skills/last30days`) for fresh multi-source research, or `npx skills add mvanhorn/last30days-skill -g` elsewhere — see `integrations/LAST30DAYS.md`. No secrets in git.

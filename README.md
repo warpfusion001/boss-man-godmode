@@ -129,6 +129,12 @@ flowchart TB
 | `readme-generator` | Draft README from repo structure |
 | `env-doctor` | Diagnose why a project won't start |
 | `truth-first` | Evidence-first verify before changes or “done” |
+| `last30days` | Recent multi-source research (Reddit/HN/Polymarket/GitHub/…); MIT vendored |
+| `email-triage` | Inbox classify + archive plan + draft replies (never auto-send) |
+| `meeting-prep` | Pre-meeting brief + post-meeting actions (Calendar via Composio) |
+| `engineering-issue-triage` | GitHub/Origin issue summarise / dupes / priority / draft comment |
+| `social-content` | LinkedIn/IG/X drafts; never publish; Dave note for IG growth |
+| `lead-research` | Company/email → account brief; CRM writes need Composio + approval |
 | `power-pack-lookup` | How to use *this* repo as the living bible |
 
 ---
@@ -142,6 +148,10 @@ Music: [`integrations/TREBLO.md`](integrations/TREBLO.md) — Treblo (free web s
 
 Felo skills (MIT, need `FELO_API_KEY`): [`integrations/FELO.md`](integrations/FELO.md)
 
+Composio (1000+ apps MCP, plugin `32661537`): [`integrations/COMPOSIO.md`](integrations/COMPOSIO.md)
+
+last30days research (MIT): [`integrations/LAST30DAYS.md`](integrations/LAST30DAYS.md)
+
 | Skill | What it does |
 |-------|--------------|
 | `felo-search` | Felo web search |
@@ -150,6 +160,19 @@ Felo skills (MIT, need `FELO_API_KEY`): [`integrations/FELO.md`](integrations/FE
 | `felo-slides` | Felo slide decks |
 | `felo-youtube-subtitling` | YouTube subtitles |
 | `felo-web-fetch` | Fetch pages as clean content |
+
+### Composio workflow skills
+
+See [`integrations/COMPOSIO.md`](integrations/COMPOSIO.md). Pack originals (not article prose):
+
+| Skill | What it does |
+|-------|--------------|
+| `email-triage` | Classify inbox; draft replies; archive recommendations |
+| `meeting-prep` | Pre-brief + post notes/actions |
+| `engineering-issue-triage` | Issue summarise, dupes, priority, draft comment |
+| `social-content` | LinkedIn/IG/X drafts (Dave for IG growth) |
+| `lead-research` | Account brief; CRM via Composio + approval |
+| `last30days` | Vendored recent research engine |
 
 Skills marketplace: [`integrations/AGENSI.md`](integrations/AGENSI.md) — Agensi shortlist + MCP (on-demand; never vendor their skill files).
 
