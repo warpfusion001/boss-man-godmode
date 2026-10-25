@@ -42,6 +42,7 @@ before paid credit burns beyond a stated estimate, and before any public post.
 - Load `movie-studio` for music videos, explainers, and narrative shorts.
 - Write `creative/jobs/<id>.md`; **ask** before messaging Grok Bot Video Studio.
 - Hybrid engines; prefer free/sandbox; re-ask above cost ceiling.
+- Music: prefer Treblo free/unlimited consumer web; Melodia API only with key + credit awareness (100 credits/v3).
 
 ## Never-list (hard)
 

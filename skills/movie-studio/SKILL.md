@@ -32,6 +32,7 @@ Brief → Engine pick → Cost estimate → creative/jobs/<id>.md
    - `hailuo-pixeldojo` — generative T2V/I2V look/motion; mux via `media-ffmpeg-suite`
    - `remotion` — code-driven captions / motion graphics
    - `ffmpeg` — owner already has clips; cut/crop/duck/caption only
+   - **Audio:** for music-video audio generation prefer Treblo (`creative-music-treblo`) before other beds; the card `audio` field can be a Treblo output path (`/workspace/outputs/music/treblo/...`).
 3. **Cost gate** — prefer free/sandbox; state estimate + ceiling. If paid path would exceed ceiling, re-ask before writing `owner_yes` path.
 4. **Job card** — copy `creative/jobs/_template.md` → `creative/jobs/<id>.md`; fill all sections; leave `owner_yes: no`, `status: draft`. Run `scripts/validate_job_card.sh` on it.
 5. **STOP** — show summary + cost; wait for explicit owner yes. Do **not** message Video Studio yet.
@@ -40,7 +41,7 @@ Brief → Engine pick → Cost estimate → creative/jobs/<id>.md
 
 ## Delegate skills (do not reinvent)
 
-- `creative-video-pipeline`, `creative-music-bed`, `creative-voice`, `media-ffmpeg-suite`
+- `creative-music-treblo` (preferred music/songs), `creative-video-pipeline`, `creative-music-bed`, `creative-voice`, `media-ffmpeg-suite`
 - `hailuo-via-fal` (backup only; prefer official MiniMax-Hailuo MCP)
 - JSON2Video / Pixel Dojo / Remotion docs already in this pack / bot skills
 

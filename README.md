@@ -114,6 +114,7 @@ flowchart TB
 | `creative-video-pipeline` | Brief → still → video → mux |
 | `movie-studio` | Route music-video / explainer / narrative → job card → owner-approved Video Studio handoff |
 | `creative-voice` | TTS via ElevenLabs free or local Piper/Chatterbox |
+| `creative-music-treblo` | Treblo songs/beds — free web; Melodia API with key (100 credits/v3) |
 | `creative-music-bed` | Background beds; flag NC licences |
 | `media-ffmpeg-suite` | Concat, 9:16, subtitles, ducking, social presets |
 | `free-llm-router` | Route planning prompts across free LLM tiers |
@@ -131,6 +132,8 @@ flowchart TB
 
 Full curated links (shortlist + creative power pack):  
 [`integrations/CATALOG.md`](integrations/CATALOG.md)
+
+Music: [`integrations/TREBLO.md`](integrations/TREBLO.md) — Treblo (free web songs; paid Melodia API).
 
 Preserved core shortlist:
 
