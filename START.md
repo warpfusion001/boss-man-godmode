@@ -18,3 +18,4 @@ You are not done until: profile acknowledged, one skill exercised, fal connect c
 
 11. Optional: connect **Composio** plugin `32661537` (https://dashboard.composio.dev) for HubSpot/Linear/Notion/Calendar and other SaaS — finish OAuth when MCP shows needsAuth; see `integrations/COMPOSIO.md`.
 12. Optional: use packaged **last30days** (`skills/last30days`) for fresh multi-source research, or `npx skills add mvanhorn/last30days-skill -g` elsewhere — see `integrations/LAST30DAYS.md`. No secrets in git.
+13. Always-on **hermes-auto-skills**: create/update a skill for each durable workflow and announce it — see `integrations/HERMES_AUTO_SKILLS.md`.

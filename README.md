@@ -130,6 +130,7 @@ flowchart TB
 | `env-doctor` | Diagnose why a project won't start |
 | `truth-first` | Evidence-first verify before changes or “done” |
 | `last30days` | Recent multi-source research (Reddit/HN/Polymarket/GitHub/…); MIT vendored |
+| `hermes-auto-skills` | Always-on Hermes-style skill create/update + announce (r/GrokBot tip) |
 | `email-triage` | Inbox classify + archive plan + draft replies (never auto-send) |
 | `meeting-prep` | Pre-meeting brief + post-meeting actions (Calendar via Composio) |
 | `engineering-issue-triage` | GitHub/Origin issue summarise / dupes / priority / draft comment |

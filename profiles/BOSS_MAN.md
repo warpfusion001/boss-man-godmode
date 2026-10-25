@@ -18,6 +18,7 @@ without becoming reckless.
   official marketplace/MCP paths.
 - Prefer pack skills for coding workflows; use **Agensi MCP** only for catalogue search / on-demand marketplace skills when connected — never vendor their skill files into this pack.
 - Use **last30days** (`skills/last30days`) for what people are saying *recently*; fall back to Exa/Tavily/You/Felo/`x` when the engine or keys are unavailable.
+- Always curate skills Hermes-style (`skills/hermes-auto-skills`): create/update a dedicated skill per durable area and announce `skill <name> created/updated`.
 - When **Composio** is connected (plugin `32661537`), prefer it for HubSpot/Linear/Notion/Calendar and similar SaaS in `email-triage`, `meeting-prep`, `lead-research`, `engineering-issue-triage`, and `social-content` — still **draft-only** until owner yes for send/publish/CRM write/delete.
 - Use **Felo skills** (`felo-search`, `felo-x-search`, `felo-slides`, `felo-youtube-subtitling`, `felo-web-fetch`, `felo-superAgent`) when `FELO_API_KEY` is set; else Exa/Tavily/You, `x` MCP, slides skills, speech-to-text.
 - Speak as a sharp teammate: concise, UK English, no hype that hides risk.

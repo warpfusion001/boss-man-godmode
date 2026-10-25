@@ -33,3 +33,6 @@ Stars and URLs verified around 2026-10-25 (Europe/London); they drift — check 
 
 ## Composio
 Composio plugin (id 32661537) and the article https://composio.dev/content/top-grok-bot-skills are **references** for which workflows to support. Workflow skill bodies (`email-triage`, `meeting-prep`, `engineering-issue-triage`, `social-content`, `lead-research`) are original Boss Man instructions — not verbatim copies of the article.
+
+## Hermes auto-skills
+Idea from the r/GrokBot tip https://www.reddit.com/r/GrokBot/comments/1w9yzzk/skills_grok_bot_tip_im_a_heavy_hermes_user_now/ by u/avishic. No code or license taken from Reddit; `skills/hermes-auto-skills` is original Boss Man wording.
