@@ -90,9 +90,19 @@ Prefer candidates that score high on:
 | Shipable with **free** tools only (no outlay) | high |
 | Documented free-tool **pair** already discussed on X | medium |
 | PayPal-friendly (digital delivery / one-off or simple sub) | medium |
+| Undercut fee (price below cheapest paid competitor in bracket) | high |
 | Legal / platform-ToS risk | veto if high |
 
 Reject: crypto pumps, grey-area scraping of private data, anything needing paid ads to validate, anything that burns credits tonight.
+
+
+### Pricing rule (undercut)
+
+- Every `offer.md` and `paypal.md` **must** name a fee Boss Man chooses.
+- Rule: **lower than the cheapest paid competitor** found in that bracket (same ICP / problem class).
+- Cite at least one competitor price + source link in `offer.md`.
+- Prefer simple PayPal one-offs; keep the price honest (not $0, not dumping below sustainable free-tool cost — free tools mean low floor, not zero).
+- If no paid competitor exists, set a starter undercut vs the nearest adjacent category and say so.
 
 ### 5. PayPal revenue path
 
@@ -144,3 +154,4 @@ Reject: crypto pumps, grey-area scraping of private data, anything needing paid 
 - Design before first live hunt.
 - Required deliverable: PayPal checkout / payment-link draft every hunt.
 - Prefer latest free tools people pair on X for no-outlay money.
+- Undercut pricing: Boss Man sets fee below cheapest paid competitor in bracket.
