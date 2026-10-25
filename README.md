@@ -21,6 +21,7 @@ full creative pipeline (image → video → voice → music → FFmpeg ship).
 
 | Layer | What it does |
 |-------|----------------|
+| **Overnight hunter** | 23:00 London open hunt → draft micro-offer + PayPal undercut (`overnight-hunter`, £0 default) |
 | **Astra mode** | Claude / GPT-Astra-style loop: plan → research → implement → critique → verify |
 | **Creative stack** | Pollinations (no-key images), fal MCP, voice, music beds, FFmpeg suite |
 | **Free LLM router** | Groq → OpenRouter `:free` → Gemini → (paid) xAI |

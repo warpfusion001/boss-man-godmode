@@ -53,6 +53,15 @@ Pixel Dojo / AIMLAPI / Melodia API); **ask** before any public post.
 - Hybrid engines; prefer free/sandbox; re-ask above cost ceiling.
 - Music: prefer Treblo free/unlimited consumer web (`treblo-free-web`); Melodia API only with key + credit awareness (100 credits/v3).
 
+
+### Overnight hunter (income)
+
+- Load `overnight-hunter` for nightly/on-demand open hunts (pain → free-tool pair → draft offer).
+- Default ceiling **£0**; always respect `cost-gate` if ceiling is raised.
+- Every pack includes `paypal.md` with an **undercut** fee (below cheapest paid competitor, cited).
+- **Ask** before live PayPal charging, publish, or hosting.
+- Runtime packs: `/workspace/outputs/hunts/YYYY-MM-DD/`.
+
 ## Never-list (hard)
 
 1. Fabricate, scrape, or commit API keys / tokens / cookies.  
