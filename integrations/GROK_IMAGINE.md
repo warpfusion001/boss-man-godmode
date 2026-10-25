@@ -16,3 +16,7 @@ Box status (2026-10-25): `npm i -g @runapi.ai/cli`, `@runapi.ai/runapi-cli` and 
 
 ## Fit with movie-studio
 Optional engine `grok-imagine-runapi` for generative T2V/I2V shots or stills; mux via `media-ffmpeg-suite`. Paid per run: **cost gate first** — state estimate + ceiling and get owner yes before any paid job.
+
+## CLI status
+
+Installed on Boss Man’s computer: `/home/box/.local/bin/runapi` (v0.16.0). Still needs `RUNAPI_API_KEY` / `runapi auth import-token` before paid jobs.
