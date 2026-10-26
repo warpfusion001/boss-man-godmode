@@ -125,3 +125,12 @@ Placeholders only: see root `.env.example`.
 openclaw/openclaw · NousResearch/hermes-agent · anthropics/skills · xai-org/grok-build · stablyai/orca · cobusgreyling/loop-engineering · vercel-labs/agent-skills · OpenHands · LangGraph · CrewAI
 
 These inform architecture; they are not drop-in Grok Bot skills.
+
+---
+
+## Weekly skills scout 2026-10-26 — link-only
+
+- https://github.com/coreyhaines31/marketingskills (MIT) — 50+ marketing skills (copywriting, offers, social, cold-email, lead-magnets, pricing); pull individual skills on demand for overnight-hunter / offer-distribution rather than vendoring the whole set.
+- https://github.com/t3dotgg/tstack (MIT) — Theo's daily skills; `council` = multi-provider review loop until models agree. Overlaps astra-adversarial-review; revisit if we want cross-provider critique.
+- https://github.com/NVIDIA/SkillSpector (Apache-2.0) — pre-install security scanner for SKILL.md packages (scripts, network, exec). Candidate tool for vetting future scout imports.
+- https://github.com/career-ops-hq/career-ops (MIT) — AI job-search agent; idea source for Resume Glow Pack / career-group content.

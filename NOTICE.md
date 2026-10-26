@@ -55,3 +55,6 @@ mazWaz/android-skill is referenced by link only (not redistributed).
 `cost-gate`, `json2video`, `pixeldojo-media`, `aimlapi-router`, `video-studio-handoff`, `skill-gap-audit`,
 `composio-workflows`, `felo-when-keyed`, and `treblo-free-web` are original Boss Man instructions wrapping
 vendor MCP/docs — not copies of vendor skill bodies.
+
+## humanizer
+`skills/humanizer/` is vendored unchanged from https://github.com/blader/humanizer (v3.1.0, MIT, © its authors; LICENSE included). Added by Weekly skills scout 2026-10-26.
