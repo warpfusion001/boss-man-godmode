@@ -26,7 +26,6 @@ full creative pipeline (image → video → voice → music → FFmpeg ship).
 | **Creative stack** | Pollinations (no-key images), fal MCP, voice, music beds, FFmpeg suite |
 | **Free LLM router** | Groq → OpenRouter `:free` → Gemini → (paid) xAI |
 | **Flovia connector** | Runway video, GPT-6 Luna text, Exa/Firecrawl web reading, X search, crypto data (Nansen/CoinGecko/Zerion) — [`integrations/FLOVIA.md`](integrations/FLOVIA.md) |
-| **Reel pipeline** | Research → Pixel Dojo storyboard → Hailuo web clips → ffmpeg logo/CTA/glitch edit — [`docs/REEL_PIPELINE.md`](docs/REEL_PIPELINE.md) |
 | **Autopilot posting** | Composio posts offers to X/Reddit/Facebook; PayPal QR + Gmail fulfilment |
 | **Catalog** | Verified Grok Bot repos + creative power pack (stars checked Oct 2026) |
 | **Profile** | `profiles/BOSS_MAN.md` — L1 autonomy for coding; ask before public publish/send |
@@ -165,8 +164,6 @@ Felo skills (MIT, need `FELO_API_KEY`): [`integrations/FELO.md`](integrations/FE
 Composio (1000+ apps MCP, plugin `32661537`): [`integrations/COMPOSIO.md`](integrations/COMPOSIO.md)
 
 Flovia (Runway, GPT-6 Luna, web, X, crypto data; OAuth MCP): [`integrations/FLOVIA.md`](integrations/FLOVIA.md)
-
-Hailuo (API + Pro web app): [`integrations/HAILUO.md`](integrations/HAILUO.md)
 
 last30days research (MIT): [`integrations/LAST30DAYS.md`](integrations/LAST30DAYS.md)
 
